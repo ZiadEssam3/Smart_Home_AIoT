@@ -17,10 +17,18 @@ Smart Home provides practical insights into how modern IoT systems operate **End
 
 <div align="center">
 
-<img src="assets/1.png" alt="Smart Home Hardware" width="500"/>
+<img src="assets/5.2.jpg" alt="Smart Home Hardware" width="500"/>
 <br/>
-<img src="assets/2.png" alt="Smart Home Dashboard" width="500"/>
-
+<img src="assets/5.jpg" alt="Smart Home Hardware" width="500"/>
+<br/>
+<img src="assets/15.1.png" alt="Smart Home Dashboard" width="500"/>
+<br/>
+<img src="assets/4.jpg" alt="Smart Home Dashboard" width="500"/>
+<br/>
+<img src="assets/15.3.png" alt="Smart Home Dashboard" width="500"/>
+<br/>
+<img src="assets/8.jpg" alt="Smart Home Dashboard" width="500"/>
+<br/>
 <br/><br/>
 🎥 [**Watch the Project Video Here **](https://www.linkedin.com/posts/ziad-essam-ze3_internet-smarthome-iotarchitectures-activity-7346913489799569409-MUAe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr_ZYkBYQUXFgZu-JybrGqGfnDZx2rhZRM)
 </div>
