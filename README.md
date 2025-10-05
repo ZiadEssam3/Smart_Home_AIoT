@@ -80,13 +80,12 @@ The project integrates **Hardware**, **Network**, **Backend**, and **Frontend** 
 
 | Category | Technologies |
 |-----------|---------------|
+| **UI** | ![MaterialUI](https://skillicons.dev/icons?i=materialui) ![Recharts](https://img.shields.io/badge/Recharts-Visualization-purple) |
 | **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) |
 | **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
 | **Database** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
 | **AI & Edge** | ![Edge Impulse](https://img.shields.io/badge/EdgeImpulse-AI%20Model-blue?logo=qualcomm) |
 | **Hardware** | ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-orange?logo=espressif) |
-| **UI** | ![MaterialUI](https://skillicons.dev/icons?i=materialui) ![Recharts](https://img.shields.io/badge/Recharts-Visualization-purple) |
-
 </div>
 
 ---
