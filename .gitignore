@@ -47,22 +47,3 @@ __pycache__/
 *.env
 *.venv
 venv/
-ESP_/__pycache__/
-EspCAM_FIRMWARE/__pycache__/
-
-# ====================================
-# Dataset or temporary files
-# ====================================
-Dataset/*.zip
-Dataset/*.tar
-Dataset/*.tar.gz
-Dataset/*.csv
-Dataset/*.json
-Dataset/*.npy
-Dataset/*.pkl
-
-# ====================================
-# Assets / cache
-# ====================================
-assets/tmp/
-assets/cache/
