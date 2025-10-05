@@ -20,6 +20,7 @@ Smart Home provides practical insights into how modern IoT systems operate **End
 
 <table>
   <tr>
+    <td><img src="assets/1.jpg" alt="Smart Home Hardware" width="400"/></td>
     <td><img src="assets/5.jpg" alt="Smart Home Hardware" width="400"/></td>
     <td><img src="assets/5.2.jpg" alt="Smart Home Hardware" width="400"/></td>
   </tr>
@@ -35,6 +36,7 @@ Smart Home provides practical insights into how modern IoT systems operate **End
   <tr>
     <td><img src="assets/8.jpg" alt="Smart Home Dashboard" width="400"/></td>
     <td><img src="assets/15.3.png" alt="Smart Home Dashboard" width="400"/></td>
+    <td><img src="assets/12.jpg" alt="Smart Home Dashboard" width="400"/></td>
   </tr>
 </table>
 
