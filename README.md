@@ -12,25 +12,30 @@ This project focuses on understanding the **entire data journey** — from **sen
 - **Secure communication** between edge devices and the cloud  
 - **Scalable backend infrastructure** and **interactive user interface**  
 
-Smart Home provides practical insights into how modern IoT systems operate **End-to-End(E2E)**, combining **embedded systems**, **networking**, and **fFull-stack web development**
+Smart Home provides practical insights into how modern IoT systems operate **End-to-End (E2E)**, combining **embedded systems**, **networking**, and **full-stack web development**.
+
 ---
 
 <div align="center">
 
-<img src="assets/5.2.jpg" alt="Smart Home Hardware" width="500"/>
-<br/>
-<img src="assets/5.jpg" alt="Smart Home Hardware" width="500"/>
-<br/>
-<img src="assets/15.1.png" alt="Smart Home Dashboard" width="500"/>
-<br/>
-<img src="assets/4.jpg" alt="Smart Home Dashboard" width="500"/>
-<br/>
-<img src="assets/15.3.png" alt="Smart Home Dashboard" width="500"/>
-<br/>
-<img src="assets/8.jpg" alt="Smart Home Dashboard" width="500"/>
-<br/>
+<table>
+  <tr>
+    <td><img src="assets/5.2.jpg" alt="Smart Home Hardware" width="400"/></td>
+    <td><img src="assets/5.jpg" alt="Smart Home Hardware" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/15.1.png" alt="Smart Home Dashboard" width="400"/></td>
+    <td><img src="assets/4.jpg" alt="Smart Home Dashboard" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/15.3.png" alt="Smart Home Dashboard" width="400"/></td>
+    <td><img src="assets/8.jpg" alt="Smart Home Dashboard" width="400"/></td>
+  </tr>
+</table>
+
 <br/><br/>
-🎥 [**Watch the Project Video Here **](https://www.linkedin.com/posts/ziad-essam-ze3_internet-smarthome-iotarchitectures-activity-7346913489799569409-MUAe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr_ZYkBYQUXFgZu-JybrGqGfnDZx2rhZRM)
+
+🎥 [**Watch the Project Video Here**](https://www.linkedin.com/posts/ziad-essam-ze3_internet-smarthome-iotarchitectures-activity-7346913489799569409-MUAe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr_ZYkBYQUXFgZu-JybrGqGfnDZx2rhZRM)
 </div>
 
 ---
@@ -77,9 +82,12 @@ The project integrates **Hardware**, **Network**, **Backend**, and **Frontend** 
 
 </div>
 
-## 🔗 Connect with Me
-
-📎 **LinkedIn:** [Ziad Essam](https://www.linkedin.com/in/ziad-essam-ze3)    
 ---
 
-⭐ *If you liked this project, don’t forget to star the repo and share your thoughts!*  
+## 🔗 Connect with Me
+
+📎 **LinkedIn:** [Ziad Essam](https://www.linkedin.com/in/ziad-essam-ze3)
+
+---
+
+⭐ *If you liked this project, don’t forget to star the repo and share your thoughts!*
