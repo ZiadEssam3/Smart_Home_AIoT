@@ -1,0 +1,42 @@
+.latest-values-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.loading {
+    font-size: 16px;
+    color: #f44336;
+}
+
+.error {
+    font-size: 16px;
+    color: #f44336;
+}
+
+.gauges {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gauge {
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.label {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}

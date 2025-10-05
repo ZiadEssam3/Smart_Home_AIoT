@@ -1,0 +1,31 @@
+/* Styling for the LED control panel */
+.led-control-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+/* Styling for the LED buttons */
+.led-button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Styling for the LED status message */
+.led-status {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Styling for the LED data section */
+.led-data {
+    margin-top: 20px;
+    text-align: left;
+}

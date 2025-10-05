@@ -1,0 +1,50 @@
+# ================================
+# Global ignores
+# ================================
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ================================
+# Backend (Node/Express)
+# ================================
+Backend/node_modules
+Backend/dist
+Backend/build
+
+# ================================
+# Client (React)
+# ================================
+client/node_modules
+client/.pnp
+client/.pnp.js
+client/coverage
+client/build
+
+# ================================
+# Python / Firmware (ESP / etc.)
+# ================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ESP_/__pycache__/
+EspCAM_FIRMWARE/__pycache__/

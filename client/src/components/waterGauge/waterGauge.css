@@ -1,0 +1,45 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.loading {
+    font-size: 16px;
+    color: #f44336;
+}
+
+.error {
+    font-size: 16px;
+    color: #f44336;
+
+}
+
+.title {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.chartContainer {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    /* Center the chart container */
+}
+
+.centerText {
+    position: absolute;
+    top: 50%;
+    /* Align to the vertical center */
+    left: 50%;
+    /* Align to the horizontal center */
+    transform: translate(-50%, -50%);
+    /* Shift back by 50% to center perfectly */
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    /* Ensure text alignment */
+    white-space: nowrap;
+    /* Prevent wrapping */
+}

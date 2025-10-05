@@ -1,0 +1,23 @@
+.sensor-chart-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.sensor-chart-title {
+    text-align: center;
+    color: #333;
+}
+
+.sensor-chart-loading,
+.sensor-chart-error {
+    text-align: center;
+}
+
+.sensor-chart-error {
+    color: red;
+}
+
+.sensor-chart-content {
+    text-align: center;
+    margin-top: 20px;
+}

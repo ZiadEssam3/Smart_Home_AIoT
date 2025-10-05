@@ -1,0 +1,68 @@
+# ================================
+# Global ignores for The project
+# ================================
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# ====================================
+# Node / Backend (inside Backend/)
+# ====================================
+Backend/node_modules
+Backend/dist
+Backend/build
+
+# ====================================
+# React Client (inside client/)
+# ====================================
+client/node_modules
+client/.pnp
+client/.pnp.js
+client/coverage
+client/build
+
+# ====================================
+# Python / Firmware / ESP code (optional)
+# ====================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ESP_/__pycache__/
+EspCAM_FIRMWARE/__pycache__/
+
+# ====================================
+# Dataset or temporary files
+# ====================================
+Dataset/*.zip
+Dataset/*.tar
+Dataset/*.tar.gz
+Dataset/*.csv
+Dataset/*.json
+Dataset/*.npy
+Dataset/*.pkl
+
+# ====================================
+# Assets / cache
+# ====================================
+assets/tmp/
+assets/cache/
